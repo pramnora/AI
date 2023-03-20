@@ -48,6 +48,13 @@ Wikipedia
 
 -----
 
+#### Claude Shannon  
+
+(The Father of Information Theory.)  
+
+Wikipedia  
+- https://en.wikipedia.org/wiki/Claude_Shannon  
+
 #### David Ferrucci  
 
 (IBM Watson cheif computer engineer)  
