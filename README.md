@@ -22,6 +22,9 @@ Believed in the power of neural networks from way back in the 70's.
 Wikipedia  
 - https://en.wikipedia.org/wiki/Geoffrey_Hinton  
 
+The Code That Runs Our Lives  
+- https://www.youtube.com/watch?v=XG-dwZMc7Ng  
+
 Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton  
 - https://www.youtube.com/watch?v=-eyhCTvrEtE
 
