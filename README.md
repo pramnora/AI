@@ -5,8 +5,8 @@ AI-Artificial Intelligence
 
 ### Other...
 
-Film: Do You Trust This Computer/(trailer)  
-- https://doyoutrustthiscomputer.org/watch   
+Film: Do You Trust This Computer  
+- https://www.youtube.com/watch?v=aV_IZye14vs  
 
 ### YouTube...
 
