@@ -64,6 +64,9 @@ Wikipedia
 Wikipedia  
 - https://en.wikipedia.org/wiki/Cliff_Shaw  
 
+AI and The Logic Theorist  
+- https://www.youtube.com/watch?v=HfPXr90HXSY  
+
 -----
 
 #### David Ferrucci  
