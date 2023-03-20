@@ -13,6 +13,9 @@ The truth about AI and why you should learn it - Computerphile explains
 IBM Research Artificial Intelligence David Ferrucci  
 - https://www.bing.com/videos/search?q=IBM+Research+Artificial+Intelligence+David+Ferrucci&docid=603500479149249616&mid=0512D7D640F60C0EE4450512D7D640F60C0EE445&view=detail&FORM=VIRE  
 
+David Ferruci: The Story of IBM Watson winning in Jepoardy    
+- https://www.bing.com/videos/search?q=IBM+Research+Artificial+Intelligence+David+Ferrucci&docid=603527842386612659&mid=26A53D3398BC4D427C2126A53D3398BC4D427C21&view=detail&FORM=VIRE  
+
 ### TED  
 
 How AI can save our humanity | Kai-Fu Lee  
