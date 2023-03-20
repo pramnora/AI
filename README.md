@@ -3,6 +3,16 @@ AI-Artificial Intelligence
 
 ## Links...
 
+### YouTube...
+
+The truth about AI and why you should learn it - Computerphile explains  
+- https://www.youtube.com/watch?v=PH9RQ6Yx75c  
+
+### TED  
+
+How AI can save our humanity | Kai-Fu Lee  
+- https://www.youtube.com/watch?v=ajGgd9Ld-Wc  
+
 ### People...
 
 #### John McCarthy  
