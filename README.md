@@ -16,6 +16,9 @@ Artificial Intelligence
 The 4 Types of Artificial Intelligence  
 - https://www.youtube.com/watch?v=Whpcb-gCIBY    
 
+Artificial Intelligence | What is AI | Introduction to Artificial Intelligence | Edureka  
+- https://www.youtube.com/watch?v=4jmsHaJ7xEA&list=PL9ooVrP1hQOGHNaCT7_fwe9AabjZI1RjI  
+
 The truth about AI and why you should learn it - Computerphile explains  
 - https://www.youtube.com/watch?v=PH9RQ6Yx75c  
 
