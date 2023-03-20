@@ -30,6 +30,15 @@ The World's Smartest Robot Is Living in Vancouver
 
 -----
 
+Allen Newell
+
+(Contributor to IPL-Information Processing Language, 1956.)  
+
+Wikipedia  
+- https://en.wikipedia.org/wiki/Allen_Newell  
+
+-----
+
 Arthur Samuel  
 
 (The Samuel Checkers-playing Program)  
