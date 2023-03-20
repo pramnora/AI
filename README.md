@@ -3,6 +3,11 @@ AI-Artificial Intelligence
 
 ## Links...
 
+### AI Programming languages  
+
+LISP  
+- https://en.wikipedia.org/wiki/Lisp_(programming_language)  
+
 ### Other...
 
 Film: Do You Trust This Computer  
