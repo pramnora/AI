@@ -45,18 +45,6 @@ David Ferruci: The Story of IBM Watson winning in Jepoardy
 
 -----
 
-#### John McCarthy  
-
-Inventor of LISP/LISt Processing programming language.  
-
-Wikipedia  
-- https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)  
-
-John McCarthy (1927-2011): Artificial Intelligence (complete) - Thinking Allowed -Jeffrey Mishlove  
-- https://www.youtube.com/watch?v=Ozipf13jRr4  
-
------
-
 #### Geoffrey Hinton
 
 Believed in the power of neural networks from way back in the 70's.  
@@ -75,5 +63,26 @@ The Times Interviews Geoffrey Hinton, An A.I. Pioneer in Canada
 
 A Fireside Chat with Turing Award Winner Geoffrey Hinton, Pioneer of Deep Learning (Google I/O'19)  
 - https://www.youtube.com/watch?v=UTfQwTuri8Y  
+
+-----
+
+#### John McCarthy  
+
+Inventor of LISP/LISt Processing programming language.  
+
+Wikipedia  
+- https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)  
+
+John McCarthy (1927-2011): Artificial Intelligence (complete) - Thinking Allowed -Jeffrey Mishlove  
+- https://www.youtube.com/watch?v=Ozipf13jRr4  
+
+-----
+
+#### Marvin Minsky  
+
+(Developed with Seymore Papaert the first LOGO turtle.)  
+
+Wikipedia  
+- https://en.wikipedia.org/wiki/Marvin_Minsky  
 
 -----
