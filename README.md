@@ -3,6 +3,11 @@ AI-Artificial Intelligence
 
 ## Links...
 
+### Other...
+
+Film: Do You Trust This Computer/(trailer)  
+- https://doyoutrustthiscomputer.org/watch   
+
 ### YouTube...
 
 The truth about AI and why you should learn it - Computerphile explains  
