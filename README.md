@@ -10,6 +10,9 @@ Film: Do You Trust This Computer
 
 ### YouTube...
 
+Artificial Intelligence  
+- https://www.youtube.com/watch?v=NGZx5GAUPys  
+
 The truth about AI and why you should learn it - Computerphile explains  
 - https://www.youtube.com/watch?v=PH9RQ6Yx75c  
 
