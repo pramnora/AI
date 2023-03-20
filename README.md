@@ -8,6 +8,11 @@ AI-Artificial Intelligence
 The truth about AI and why you should learn it - Computerphile explains  
 - https://www.youtube.com/watch?v=PH9RQ6Yx75c  
 
+### Bing videos  
+
+IBM Research Artificial Intelligence David Ferrucci  
+- https://www.bing.com/videos/search?q=IBM+Research+Artificial+Intelligence+David+Ferrucci&docid=603500479149249616&mid=0512D7D640F60C0EE4450512D7D640F60C0EE445&view=detail&FORM=VIRE  
+
 ### TED  
 
 How AI can save our humanity | Kai-Fu Lee  
