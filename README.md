@@ -57,6 +57,15 @@ Wikipedia
 
 -----
 
+#### Cliff Shaw  
+
+(Co-author of the first AI program: The Logic Theorist.)  
+
+Wikipedia  
+- https://en.wikipedia.org/wiki/Cliff_Shaw  
+
+-----
+
 #### David Ferrucci  
 
 (IBM Watson cheif computer engineer)  
