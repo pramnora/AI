@@ -22,6 +22,9 @@ Artificial Intelligence | What is AI | Introduction to Artificial Intelligence |
 The truth about AI and why you should learn it - Computerphile explains  
 - https://www.youtube.com/watch?v=PH9RQ6Yx75c  
 
+Overview Artificial Intelligence Course | Stanford CS221: Learn AI (Autumn 2019)  
+- https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX  
+
 ### TED  
 
 How AI can save our humanity | Kai-Fu Lee  
