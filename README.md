@@ -75,6 +75,15 @@ A Fireside Chat with Turing Award Winner Geoffrey Hinton, Pioneer of Deep Learni
 
 -----
 
+#### Herb Simon  
+
+(1957, predicted computer chess would surpass human chess. 40 years too early.)  
+
+Wikipedia  
+- https://en.wikipedia.org/wiki/Herbert_A._Simon  
+
+-----
+
 #### John McCarthy  
 
 Inventor of LISP/LISt Processing programming language.  
