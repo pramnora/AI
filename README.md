@@ -104,3 +104,14 @@ Wikipedia
 - https://en.wikipedia.org/wiki/Marvin_Minsky  
 
 -----
+
+#### Oliver Selfridge  
+
+(Father of Machine Perception)  
+
+Wikipedia  
+- https://en.wikipedia.org/wiki/Oliver_Selfridge  
+
+-----
+
+
