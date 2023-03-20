@@ -30,7 +30,7 @@ The World's Smartest Robot Is Living in Vancouver
 
 -----
 
-Allen Newell
+#### Allen Newell
 
 (Contributor to IPL-Information Processing Language, 1956.)  
 
@@ -39,7 +39,7 @@ Wikipedia
 
 -----
 
-Arthur Samuel  
+#### Arthur Samuel  
 
 (The Samuel Checkers-playing Program)  
 
@@ -54,6 +54,8 @@ Wikipedia
 
 Wikipedia  
 - https://en.wikipedia.org/wiki/Claude_Shannon  
+
+-----
 
 #### David Ferrucci  
 
@@ -97,6 +99,15 @@ A Fireside Chat with Turing Award Winner Geoffrey Hinton, Pioneer of Deep Learni
 
 Wikipedia  
 - https://en.wikipedia.org/wiki/Herbert_A._Simon  
+
+-----
+
+#### J C R Licklider
+
+(Early vision of a worldwide computer network long before it was built.)  
+
+Wikipedia  
+- https://en.wikipedia.org/wiki/J._C._R._Licklider  
 
 -----
 
