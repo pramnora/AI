@@ -29,6 +29,8 @@ The World's Smartest Robot Is Living in Vancouver
 
 #### David Ferrucci  
 
+(IBM Watson cheif computer engineer)  
+
 Wikipedia  
 - https://en.wikipedia.org/wiki/David_Ferrucci  
 
