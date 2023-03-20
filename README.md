@@ -13,6 +13,11 @@ The truth about AI and why you should learn it - Computerphile explains
 How AI can save our humanity | Kai-Fu Lee  
 - https://www.youtube.com/watch?v=ajGgd9Ld-Wc  
 
+### Bloomsburg Originals  
+
+The World's Smartest Robot Is Living in Vancouver  
+- https://www.youtube.com/watch?v=cjN9ov_2zJs  
+
 ### People...
 
 #### John McCarthy  
