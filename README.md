@@ -30,6 +30,15 @@ The World's Smartest Robot Is Living in Vancouver
 
 -----
 
+Arthur Samuel  
+
+(The Samuel Checkers-playing Program)  
+
+Wikipedia  
+- https://en.wikipedia.org/wiki/Arthur_Samuel_(computer_scientist)  
+
+-----
+
 #### David Ferrucci  
 
 (IBM Watson cheif computer engineer)  
