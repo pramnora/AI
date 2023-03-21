@@ -44,6 +44,15 @@ The World's Smartest Robot Is Living in Vancouver
 
 -----
 
+Alan Turing  
+
+(Inventor the AI Turing Test.)  
+
+Wikipedia  
+- https://en.wikipedia.org/wiki/Alan_Turing  
+
+-----
+
 #### Allen Newell
 
 (Contributor to IPL-Information Processing Language, 1956.)  
