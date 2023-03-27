@@ -8,11 +8,6 @@ AI-Artificial Intelligence
 LISP  
 - https://en.wikipedia.org/wiki/Lisp_(programming_language)  
 
-### Other...
-
-Film: Do You Trust This Computer  
-- https://www.youtube.com/watch?v=aV_IZye14vs  
-
 ### YouTube...
 
 This AI says it's conscious and experts are starting to agree. w Elon Musk.  
@@ -20,6 +15,9 @@ This AI says it's conscious and experts are starting to agree. w Elon Musk.
 
 How We Accidentally Started Making Infinite Robots  
 - https://www.youtube.com/watch?v=u1l4aXh1UG8  
+
+Film: Do You Trust This Computer  
+- https://www.youtube.com/watch?v=aV_IZye14vs  
 
 Artificial Intelligence  
 - https://www.youtube.com/watch?v=NGZx5GAUPys  
