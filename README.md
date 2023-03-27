@@ -44,7 +44,7 @@ The World's Smartest Robot Is Living in Vancouver
 
 -----
 
-Alan Turing  
+#### Alan Turing  
 
 (Inventor the AI Turing Test.)  
 
