@@ -15,6 +15,9 @@ Film: Do You Trust This Computer
 
 ### YouTube...
 
+This AI says it's conscious and experts are starting to agree. w Elon Musk.  
+- https://www.youtube.com/watch?v=xvNvj7ku5pY  
+
 How We Accidentally Started Making Infinite Robots  
 - https://www.youtube.com/watch?v=u1l4aXh1UG8  
 
