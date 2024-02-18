@@ -1,5 +1,5 @@
 # AI
-AI-Artificial Intelligence
+**AI**-**A**rtificial **I**ntelligence
 
 Document last modified: *Sun 18 Feb 2024 12:32 PM GMT*
 
