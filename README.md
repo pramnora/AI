@@ -188,6 +188,9 @@ Wikipedia
 
 Other links...
 
+Cornell University  
+- https://arxiv.org/list/cs.AI/Recent  
+
 Harvard  
 - https://seas.harvard.edu/news/2021/10/present-and-future-ai  
 
