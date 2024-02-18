@@ -186,4 +186,13 @@ Wikipedia
 
 -----
 
+Other links...
 
+Harvard  
+- https://seas.harvard.edu/news/2021/10/present-and-future-ai  
+
+Wired online mag.  
+- https://www.wired.com/tag/artificial-intelligence/  
+
+Science Daily  
+- https://www.sciencedaily.com/news/computers_math/artificial_intelligence/  
