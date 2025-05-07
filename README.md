@@ -41,3 +41,12 @@ but, it can be used to:
 - write letters  
 - etc.  
 ...write almost anything you could care to 'imagine'.  
+
+------
+
+I've also used AI to:  
+- teach me foreign languages  
+- teach me maths  
+- etc.  
+...so, again, AI has as many uses as much as you would ever care to 'imagine'.  
+
