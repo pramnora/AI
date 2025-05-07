@@ -28,4 +28,16 @@ Thus, it's not really necesssary to learn how to write code, anymore; as AI does
 also, in a very highly efficient, quick, simple, and, straight forwards manner;   
 whereas, before, I used to have to research for hours long...;    
 and, then, practice writing and correcting code...the which process might take me whole entire days long...;   
-now-a-days, all this kind of job can be achieved in just merely seconds...all thanks to the beautify of AI.  
+now-a-days, all this kind of job can be achieved in just merely seconds...all thanks to the sheer beauty of AI.  
+
+-----
+
+It's not just in coding, alone, that AI helps...;  
+but, it can be used to:  
+- produce graphics  
+- write poetry  
+- write songs  
+- write plays  
+- write letters  
+- etc.  
+...write almost anything you could care to 'imagine'.  
