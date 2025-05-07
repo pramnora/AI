@@ -7,4 +7,11 @@
 
 ## Introduction
 
-I've just started using this particular AI engine, today.
+I've just started using this particular AI engine, today.  
+
+My first use of it was to ask it to create me a message box using:  
+- Python  
+- Python TK  
+- a scrolling text message box  
+- etc.
+- 
