@@ -7,7 +7,7 @@
 
 ## Links
 
-- https://www.character.ai
+- [https://www.character.ai](https://character.ai/)   
 - https://claude.ai
 - https://www.meta.ai
 - https://mistral.ai/
