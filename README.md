@@ -7,7 +7,9 @@
 
 ## Links
 
-- https://character.ai/   
-- https://claude.ai
-- https://www.meta.ai
-- https://mistral.ai/
+- https://character.ai/     
+- https://claude.ai  
+- https://gemini.google.com  
+- https://www.meta.ai  
+- https://mistral.ai
+  
