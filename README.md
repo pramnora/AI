@@ -13,6 +13,6 @@
 - https://gemini.google.com  
 - https://www.meta.ai  
 - https://mistral.ai
-- https://warp.dev  
+- https://www.warp.dev  
  
   
