@@ -9,9 +9,9 @@
 
 - https://character.ai/     
 - https://claude.ai  
+- https://www.cursor.com/en
 - https://gemini.google.com  
 - https://www.meta.ai  
 - https://mistral.ai
-- https://www.cursor.com/en
-- 
+ 
   
